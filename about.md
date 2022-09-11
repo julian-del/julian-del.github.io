@@ -4,6 +4,8 @@ title: about
 permalink: /about/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+This is a portfolio to showcase my programming and cybersecurity abilities. I will continue to update the site as I complete more projects and further develop my skills.
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+My email address and Github account can be found in the footer below. I am also on [LinkedIn](https://www.linkedin.com/in/julian-delorenzo/).
+
+Please get in touch if you'd like to chat.
