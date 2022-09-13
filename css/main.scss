@@ -3,6 +3,9 @@
 ---
 @charset "utf-8";
 
+// import Pyments/Rouge stylesheet for code syntax highlighting
+@import "pygments.css";
+
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
