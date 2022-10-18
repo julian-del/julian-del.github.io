@@ -1,8 +1,8 @@
 # Site settings
-title: Julian’s Cybersecurity Portfolio
+title: Julian’s Code Portfolio
 email: j [at] juliandelorenzo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Julian de Lorenzo’s cybersecurity and programming projects.
+  Julian de Lorenzo’s programming portfolio.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "julian-del.github.io" # the base hostname & protocol for your site
   # twitter_username: 
