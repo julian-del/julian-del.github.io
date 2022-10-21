@@ -4,7 +4,7 @@ title:  "Time-saving Python scripts"
 date:   2022-09-11 12:00:00
 preview: img/posts/2022-09-10-time-savers/preview.webp
 ---
-*Note: The scripts discussed in this article are available on [my GitHub profile]().*
+*The scripts in this article are also on [my GitHub profile](https://github.com/julian-del/time-savers){:target="_blank"}{:rel="noopener noreferrer"}.*
 
 Python is a flexible and easy-to-learn language, making it perfect for automating frequent tasks. In this post, I will run through how I wrote three simple scripts that make my life easier on a day-to-day basis. The scripts are inspired by Al Sweigart and his book [*Automate the Boring Stuff With Python*](https://automatetheboringstuff.com/){:target="_blank"}{:rel="noopener noreferrer"}.
 
